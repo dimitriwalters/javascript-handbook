@@ -6,6 +6,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
 - [node.js](#nodejs)
 - [closures](#closures)
 - [DOM](#dom)
+- [equality (triple vs. double equal)](#equality)
 
 ### node.js
 A platform built on Chrome's V8 JavaScript engine for building network applications.
@@ -15,3 +16,8 @@ A feature of functions to have access to the parent scope, even after the parent
 
 ### DOM
 An API to access the elements within an HTML or XML document.
+
+### equality
+`===`: compares two values for equality
+
+`==`: converts values to a common type then compares for equality
