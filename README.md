@@ -13,7 +13,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
 A platform built on Chrome's V8 JavaScript engine for building network applications.
 
 ### closures
-A feature of functions to have access to the parent scope, even after the parent scope is destroyed.
+A feature of a function that allows access to the parent scope - even after the parent scope is destroyed.
 
 ### DOM
 An API to access the elements within an HTML or XML document.
@@ -24,4 +24,4 @@ An API to access the elements within an HTML or XML document.
 `==`: converts values to a common type then compares for equality
 
 ### asynchronous
-A process that does not block other processes during execution.
+When a process does not block other processes during execution.
