@@ -7,6 +7,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
 - [closures](#closures)
 - [DOM](#dom)
 - [equality (triple vs. double equal)](#equality)
+- [asynchronous](#asynchronous)
 
 ### node.js
 A platform built on Chrome's V8 JavaScript engine for building network applications.
@@ -21,3 +22,6 @@ An API to access the elements within an HTML or XML document.
 `===`: compares two values for equality
 
 `==`: converts values to a common type then compares for equality
+
+### asynchronous
+A process that does not block other processes during execution.
