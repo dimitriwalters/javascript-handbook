@@ -5,6 +5,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
 ## Table of Contents
 - [Client-side](#client-side)
   - [DOM](#dom)
+  - [event](#event)
 - [General](#general)
   - [closures](#closures)
   - [equality (triple vs. double equal)](#equality)
@@ -16,6 +17,9 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
 
 ### DOM
 An API to access the elements within an HTML or XML document.
+
+### event
+The performing of certain actions on a web page.
 
 ## General
 
