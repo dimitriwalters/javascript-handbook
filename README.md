@@ -7,7 +7,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
   - [DOM](#dom)
   - [event](#event)
 - [General](#general)
-  - [closures](#closures)
+  - [closure](#closure)
   - [equality (triple vs. double equal)](#equality)
   - [asynchronous](#asynchronous)
 - [Server-side](#server-side)
@@ -23,7 +23,7 @@ The performing of certain actions on a web page.
 
 ## General
 
-### closures
+### closure
 A feature of a function that allows access to the parent scope - even after the parent scope is destroyed.
 
 ### equality
