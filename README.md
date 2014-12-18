@@ -6,6 +6,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
 - [Client-side](#client-side)
   - [DOM](#dom)
   - [event](#event)
+  - [event listener](#event-listener)
 - [General](#general)
   - [closure](#closure)
   - [equality (triple vs. double equal)](#equality)
@@ -20,6 +21,9 @@ An API to access the elements within an HTML or XML document.
 
 ### event
 The performing of certain actions on a web page.
+
+### event listener
+A notifier when an event on an element occurs.
 
 ## General
 
