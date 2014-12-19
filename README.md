@@ -8,9 +8,9 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
   - [event](#event)
   - [event listener](#event-listener)
 - [General](#general)
+  - [asynchronous](#asynchronous)
   - [closure](#closure)
   - [equality (triple vs. double equal)](#equality)
-  - [asynchronous](#asynchronous)
 - [Server-side](#server-side)
   - [node.js](#nodejs)
   - [npm](#npm)
@@ -28,6 +28,9 @@ A notifier when an event on an element occurs.
 
 ## General
 
+### asynchronous
+When a process does not block other processes during execution.
+
 ### closure
 A feature of a function that allows access to the parent scope - even after the parent scope is destroyed.
 
@@ -35,9 +38,6 @@ A feature of a function that allows access to the parent scope - even after the 
 `===`: compares two values for equality
 
 `==`: converts values to a common type then compares for equality
-
-### asynchronous
-When a process does not block other processes during execution.
 
 ## Server-side
 
