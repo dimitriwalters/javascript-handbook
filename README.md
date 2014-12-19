@@ -13,6 +13,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
   - [asynchronous](#asynchronous)
 - [Server-side](#server-side)
   - [node.js](#nodejs)
+  - [npm](#npm)
 
 ## Client-side
 
@@ -42,3 +43,6 @@ When a process does not block other processes during execution.
 
 ### node.js
 A platform built on Chrome's V8 JavaScript engine for building network applications.
+
+### npm
+A package manager for node.js.
