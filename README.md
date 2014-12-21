@@ -45,4 +45,4 @@ A feature of a function that allows access to the parent scope - even after the 
 A platform built on Chrome's V8 JavaScript engine for building network applications.
 
 ### npm
-A package manager for node.js.
+A package manager for node.js modules.
