@@ -12,6 +12,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
   - [closure](#closure)
   - [equality (triple vs. double equal)](#equality)
 - [Server-side](#server-side)
+  - [bower](#bower)
   - [node.js](#nodejs)
   - [npm](#npm)
 
@@ -40,6 +41,9 @@ A feature of a function that allows access to the parent scope - even after the 
 `==`: converts values to a common type then compares for equality
 
 ## Server-side
+
+### bower
+A package manager for web components.
 
 ### node.js
 A platform built on Chrome's V8 JavaScript engine for building network applications.
