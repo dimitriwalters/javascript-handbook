@@ -45,6 +45,9 @@ A feature of a function that allows access to the parent scope - even after the 
 ### bower
 A package manager for web components.
 
+### grunt
+A task runner for node.js.
+
 ### node.js
 A platform built on Chrome's V8 JavaScript engine for building network applications.
 
