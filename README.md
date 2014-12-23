@@ -4,7 +4,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
 
 ## Table of Contents
 - [Client-side](#client-side)
-  - [DOM](#dom)
+  - [dom](#dom)
   - [event](#event)
   - [event listener](#event-listener)
 - [General](#general)
@@ -18,7 +18,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
 
 ## Client-side
 
-### DOM
+### dom
 An API to access the elements within an HTML or XML document.
 
 ### event
