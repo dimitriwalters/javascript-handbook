@@ -13,6 +13,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
   - [equality (triple vs. double equal)](#equality)
 - [Server-side](#server-side)
   - [bower](#bower)
+  - [grunt](#grunt)
   - [node.js](#nodejs)
   - [npm](#npm)
 
