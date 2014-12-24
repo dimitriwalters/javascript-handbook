@@ -13,6 +13,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
   - [equality (triple vs. double equal)](#equality)
 - [Server-side](#server-side)
   - [bower](#bower)
+  - [event-driven](#event-driven)
   - [grunt](#grunt)
   - [node.js](#nodejs)
   - [npm](#npm)
@@ -45,6 +46,9 @@ A feature of a function that allows access to the parent scope - even after the 
 
 ### bower
 A package manager for web components.
+
+### event-driven
+A programming paradigm where the flow of the program is determined by events.
 
 ### grunt
 A task runner for node.js.
