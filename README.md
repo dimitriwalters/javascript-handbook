@@ -35,7 +35,7 @@ A notifier when an event on an element occurs.
 When a process does not block other processes during execution.
 
 ### closure
-A feature of a function that allows access to the parent scope - even after the parent scope is destroyed.
+The behaviour of functions to maintain it's parent scope - even after the parent scope is destroyed.
 
 ### equality
 `===`: compares two values for equality
