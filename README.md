@@ -32,7 +32,7 @@ A notifier when an event on an element occurs.
 ## General
 
 ### asynchronous
-When a process does not block other processes during execution.
+A form of processing that does not block other processes during execution.
 
 ### closure
 The behaviour of functions to maintain it's parent scope - even after the parent scope is destroyed.
