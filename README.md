@@ -11,6 +11,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
   - [asynchronous](#asynchronous)
   - [closure](#closure)
   - [equality (triple vs. double equal)](#equality)
+  - [hoisting](#hoisting)
 - [Server-side](#server-side)
   - [bower](#bower)
   - [event-driven](#event-driven)
@@ -41,6 +42,9 @@ The behaviour of functions to maintain it's parent scope - even after the parent
 `===`: compares two values for equality
 
 `==`: converts values to a common type then compares for equality
+
+### hoisting
+The behaviour of variable declarations to be moved to the top.
 
 ## Server-side
 
