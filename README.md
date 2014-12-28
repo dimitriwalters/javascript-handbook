@@ -7,6 +7,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
   - [dom](#dom)
   - [event](#event)
   - [event listener](#event-listener)
+  - [selector](#selector)
 - [General](#general)
   - [asynchronous](#asynchronous)
   - [closure](#closure)
@@ -29,6 +30,9 @@ The performing of certain actions on a web page.
 
 ### event listener
 A notifier when an event on an element occurs.
+
+### selector
+A pattern used to select HTML elements.
 
 ## General
 
