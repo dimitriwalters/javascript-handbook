@@ -6,6 +6,7 @@ A guide for terms and concepts that are helpful to know if you're a javascript d
 - [Client-side](#client-side)
   - [dom](#dom)
   - [event](#event)
+  - [event delegation](#event-delegation)
   - [event listener](#event-listener)
   - [selector](#selector)
 - [General](#general)
@@ -27,6 +28,9 @@ An API to access the elements within an HTML or XML document.
 
 ### event
 The performing of certain actions on a web page.
+
+### event delegation
+Avoiding adding an event listener to multiple elements, instead, adding it to a parent element and analyzing the bubbled event there.
 
 ### event listener
 A notifier when an event on an element occurs.
