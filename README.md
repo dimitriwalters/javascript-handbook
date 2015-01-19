@@ -53,7 +53,7 @@ The behaviour of functions to maintain it's parent scope - even after the parent
 `==`: converts values to a common type then compares for equality
 
 ### event loop
-An entity that handles and processes external events and converts them into callback invocations
+An entity that controls and dispatches events following an initial event.
 
 ### hoisting
 The behaviour of variable declarations to be moved to the top.
